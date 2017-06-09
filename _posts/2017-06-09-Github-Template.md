@@ -1,5 +1,5 @@
 ---
-title: Github Template
+title: My new blog
 layout: post
 author: ben.kilcullen
 permalink: /github-template/
